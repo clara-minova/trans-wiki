@@ -1,16 +1,16 @@
-# Testosterone
-In Spain usually prescribed one of two types of forms:
+# Trans masc HRT
+
+## Testosterone
+In Spain, testosterone is usually prescribed in one of two forms:
 1) Gels
 2) Injections
- 
+
 ### Gels
-There is only one actively prescribed brand - **Testogel**
+There is only one commonly prescribed brand: **Testogel**.
 
 ### Injections
+1) Reandron 1000 mg (testosterone undecanoate): one of the most commonly prescribed
+2) Testex Prolongatum (testosterone cypionate) %% TODO: check in CIMA that it's currently available and add details %%
 
-1) Reandron - one of the commonly prescribed drugs
-2) 
-
-# Blockers
-
-Triptorelin injections - exist in 3 different dosages for 1/3/6 month. Some versions of it is cost regulated and covered by SS. But it's expensive if you going to buy it without insurance coverage.
+## Blockers
+Triptorelin injections: available in 1-, 3- and 6-month doses. Some versions are price-regulated and covered by the SS, but it's expensive if you buy it without insurance coverage.

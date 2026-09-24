@@ -1,8 +1,4 @@
 # misc
 .DS_Store
 *.pem
-
-./**/.DS_Store
 .obsidian
-./**/.obsidian
-

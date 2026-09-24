@@ -1,29 +1,34 @@
-HRT - Hormonal replacement therapy
-## Types of HRT available in Spain 
-[[Trans fem HRT]] 
-[[Trans masc HRT]]
+# HRT (hormone replacement therapy)
+
+## Types of HRT available in Spain
+- [[Trans fem HRT]]
+- [[Trans masc HRT]]
+
+> [!tip] Checking a medication
+> - [CIMA](https://cima.aemps.es/cima/publico/home.html) (Spanish medicines agency): which medications are on the market in Spain and their current status.
+> - [Ministry of Health: medications search](https://www.sanidad.gob.es/profesionales/medicamentos.do): whether a medication is covered by the SS.
+> - [Nomenclátor](https://www.sanidad.gob.es/profesionales/nomenclator.do?metodo=buscarProductos): for medications that are covered by the SS and price-regulated, the price before coverage.
 
 ## Access to HRT
 
 ### Public system
-In public system HRT can be prescribed by your family doctor or endocrinologist (or gynecologist)
+In the public system, HRT can be prescribed by your family doctor or an endocrinologist (or a gynecologist).
 
-Time to get access to trans specific endocrinologist can variate, from couple weeks from moment of getting referral to serval months.
+The wait to see a trans-specific endocrinologist can vary from a couple of weeks after getting a referral to several months.
+
 ### Private system
+In the private system you can get access within a couple of days or even hours, depending on whether you pay out of pocket or use private insurance.
 
-In private system time to access can be little as couple days/hours, depending on if you paying out of pocket or you using private insurance. 
+For trans fem HRT, you can usually get a prescription from a general practitioner (for most medications, but not all) or an endocrinologist. If you are only about to start HRT, usually only an endocrinologist can prescribe the initial treatment, and you may be asked to sign an informed consent form.
 
-For trans-fem HRT you usually can get prescription from General Practitioner (for most of medications but not all) or endocrinologist. If you only going to start HRT, usually only Endocrinologist can prescribe you initial treatment and as result informative consent can be asked.
-
-For trans-masc HRT situation a bit more complicated, testosterone drugs is considered as highly controlled substances, as result GP can't issues initial prescription, only specialized doctors like endocrinologists can prescribe it (for renewing prescription rules a bit less strict).
-
+For trans masc HRT the situation is a bit more complicated. Testosterone medications have stricter prescribing conditions, so a GP usually can't issue the first prescription; only specialists such as endocrinologists can. The rules for renewing a prescription are less strict.
+%% TODO: check the exact prescribing conditions of each testosterone product in CIMA (e.g. "Diagnóstico hospitalario" or "visado") and link them here %%
 
 ## Lab tests
 ### Public system
-In public system lab tests can be prescribed by you healthcare provider like family doctor or endocrinologist. And they will be covered by SS.
+In the public system, lab tests are ordered by your healthcare provider, such as your family doctor or endocrinologist, and are covered by the SS.
 
 ### Private system
-
-In private system there is couple ways to do lab tests:
-1) Completely private with payment out of pocket, usually extremely expensive, but depends on you location.
-2) With prior authorization from private insurance (need to be made or prepared by your doctor in the system), depending on you plan conditions can variate, it can be completely free or have copayment, but even with copayment usually much more affordable and cheaper. Also some insurance plans can offer reimbursement for appointments and test made out of the system.
+In the private system there are a couple of ways to get lab tests:
+1) Fully private, paying out of pocket. This can be expensive, and the price depends a lot on the lab or clinic. For example, a basic blood test plus a typical hormone panel can cost around €300.
+2) With prior authorization from your private insurance (requested or prepared by a doctor in your insurer's network). Depending on your plan it can be completely free or have a copayment, but even with a copayment it is usually much cheaper. Some insurance plans also reimburse appointments and tests done outside their network.
