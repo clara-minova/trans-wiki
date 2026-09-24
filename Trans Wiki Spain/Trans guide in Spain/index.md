@@ -9,6 +9,11 @@ A practical guide for trans people who are moving to Spain or already living her
 - [[EN/HRT/HRT|HRT (hormone replacement therapy)]]
 - [[EN/About author and project|About the author and the project]]
 
+## Español
+- [[ES/Trans healthcare|Atención sanitaria trans en España]]
+- [[ES/HRT/HRT|THS (terapia hormonal sustitutiva)]]
+- [[ES/About author and project|Sobre la autora y el proyecto]]
+
 ## Русский
 - [[RU/Trans healthcare|Медицинская помощь транс-людям в Испании]]
 - [[RU/HRT/HRT|ЗГТ (заместительная гормональная терапия)]]
