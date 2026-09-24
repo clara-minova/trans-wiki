@@ -14,7 +14,7 @@ In Spain, each autonomous community (*comunidad autónoma*) runs its own public 
 
 Overall, there are 3 types of trans healthcare in the SS:
 1) Psychological support and assessment
-2) Pharmacotherapy (HRT and/or psychiatric medication). More info about HRT: [[HRT]]
+2) Pharmacotherapy (HRT and/or psychiatric medication). More info about HRT: [[EN/HRT/HRT|HRT]]
 3) Surgical care (vaginoplasty, mastectomy, breast augmentation, etc.)
 
 These are often presented as steps, but in reality some steps can be skipped, especially if you are not starting your transition but continuing it after moving to Spain (or moving within Spain).
@@ -26,7 +26,7 @@ Traditionally this was considered the first step to access the rest of trans hea
 If you do want psychological support, waiting times can vary a lot, because mental health services in the SS are generally considered extremely overloaded.
 
 ### HRT
-See [[HRT]].
+See [[EN/HRT/HRT|HRT]].
 
 ### Surgical care
 Surgical care varies a lot between regions. This includes what is covered by the SS, and how long you need to be followed by an endocrinologist in the system before you can get a referral for surgery.
@@ -65,7 +65,7 @@ Sometimes a regular endocrinologist (outside the Gender/Trans Unit, but still in
 Usually not required to access HRT and most surgical care. If you need it, it's often covered by private insurance; the conditions depend on your plan.
 
 ### HRT
-See [[HRT]].
+See [[EN/HRT/HRT|HRT]].
 
 ### Surgical care
 Paying out of pocket is mostly straightforward, and the waiting time mainly depends on the provider you choose. For most surgeries a certificate from a psychiatrist is NOT required, but clinics/surgeons still have the right to ask for one.

@@ -1,0 +1,72 @@
+name: Deploy wiki to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+env:
+  # Quartz release to build with. Bump deliberately after checking the changelog.
+  QUARTZ_VERSION: v4.5.2
+  # Folder of the vault that gets published (its index.md is the homepage)
+  CONTENT_DIR: Trans Wiki Spain/Trans guide in Spain
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout wiki
+        uses: actions/checkout@v4
+        with:
+          path: wiki
+          fetch-depth: 0 # full history so pages get correct "last modified" dates
+
+      - name: Checkout Quartz
+        uses: actions/checkout@v4
+        with:
+          repository: jackyzha0/quartz
+          ref: ${{ env.QUARTZ_VERSION }}
+          path: quartz
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: quartz/package-lock.json
+
+      - name: Apply site config
+        run: cp wiki/.quartz/quartz.config.ts quartz/quartz.config.ts
+
+      - name: Install Quartz
+        working-directory: quartz
+        run: npm ci
+
+      - name: Build site
+        working-directory: quartz
+        run: npx quartz build -d "../wiki/${CONTENT_DIR}" -o public
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: quartz/public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

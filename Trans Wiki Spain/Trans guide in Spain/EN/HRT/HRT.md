@@ -1,8 +1,8 @@
 # HRT (hormone replacement therapy)
 
 ## Types of HRT available in Spain
-- [[Trans fem HRT]]
-- [[Trans masc HRT]]
+- [[EN/HRT/Trans fem HRT|Trans fem HRT]]
+- [[EN/HRT/Trans masc HRT|Trans masc HRT]]
 
 > [!tip] Checking a medication
 > - [CIMA](https://cima.aemps.es/cima/publico/home.html) (Spanish medicines agency): which medications are on the market in Spain and their current status.
