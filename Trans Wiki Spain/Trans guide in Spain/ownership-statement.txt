@@ -1,0 +1,44 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+OWNERSHIP STATEMENT / DECLARACIÓN DE AUTORÍA / ЗАЯВЛЕНИЕ ОБ АВТОРСТВЕ
+
+[EN]
+I, Clara Minova, am the author and owner of the wiki published at
+https://clara-minova.github.io/trans-wiki/
+and of its source repository
+https://github.com/clara-minova/trans-wiki
+This statement is signed with my OpenPGP key:
+Fingerprint: CC84B7E68C2909E22C402625D4098098C3435001
+Published at: https://keys.openpgp.org/ (klara.minova@gmail.com)
+Copies of this wiki at other addresses are not maintained by me.
+
+[ES]
+Yo, Clara Minova, soy la autora y titular de la wiki publicada en
+https://clara-minova.github.io/trans-wiki/
+y de su repositorio de código fuente
+https://github.com/clara-minova/trans-wiki
+Esta declaración está firmada con mi clave OpenPGP:
+Huella digital: CC84B7E68C2909E22C402625D4098098C3435001
+Publicada en: https://keys.openpgp.org/ (klara.minova@gmail.com)
+Las copias de esta wiki en otras direcciones no están mantenidas por mí.
+
+[RU]
+Я, Клара Минова, являюсь автором и владелицей вики, опубликованной по адресу
+https://clara-minova.github.io/trans-wiki/
+и её репозитория с исходным кодом
+https://github.com/clara-minova/trans-wiki
+Это заявление подписано моим ключом OpenPGP:
+Отпечаток: CC84B7E68C2909E22C402625D4098098C3435001
+Опубликован на: https://keys.openpgp.org/ (klara.minova@gmail.com)
+Копии этой вики по другим адресам не поддерживаются мной.
+
+Date / Fecha / Дата: 2026-10-16
+-----BEGIN PGP SIGNATURE-----
+
+iJEEARYKADkWIQTMhLfmjCkJ4ixAJiXUCYCYw0NQAQUCatIZwxsUgAAAAAAEAA5t
+YW51MiwyLjUrMS4xMiwwLDMACgkQ1AmAmMNDUAHuFgD+IXR3SJFD4ugYBZWJJigx
+hONPhjPkldYpJ0P7yZ66mIsBAMJEOfwD8RxRnJwoF5eIwdFlrtA1cAS1ucQEMES2
++SIB
+=5F+h
+-----END PGP SIGNATURE-----

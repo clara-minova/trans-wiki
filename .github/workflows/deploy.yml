@@ -45,7 +45,7 @@ jobs:
           cache-dependency-path: quartz/package-lock.json
 
       - name: Apply site config
-        run: cp wiki/.quartz/quartz.config.ts quartz/quartz.config.ts
+        run: cp -r wiki/.quartz/. quartz/
 
       - name: Install Quartz
         working-directory: quartz

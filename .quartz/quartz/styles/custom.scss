@@ -1,0 +1,40 @@
+@use "./base.scss";
+
+// Custom styles for the wiki. Loaded after Quartz's theme, so rules here win.
+// Colors from quartz.config.ts are available as CSS variables:
+// var(--light) var(--lightgray) var(--gray) var(--darkgray) var(--dark)
+// var(--secondary) var(--tertiary) var(--highlight)
+
+// Site icon next to the title in the sidebar.
+// The title is long, so it is a bit smaller than Quartz's default.
+.page-title {
+  font-size: 1.5rem;
+  line-height: 1.2;
+}
+
+.page-title a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75rem;
+
+  &::before {
+    content: "";
+    flex-shrink: 0;
+    width: 3.5rem;
+    height: 3.5rem;
+    border-radius: 10px;
+    // path is relative to index.css, which sits at the site root
+    background: url("static/icon.png") center / cover no-repeat;
+  }
+}
+
+// --- Examples: uncomment to try ---
+
+// Wider text column (default is narrower on large screens)
+// .center { max-width: 820px; }
+
+// Hide the graph view
+// .graph { display: none; }
+
+// Slightly larger body text
+// article p, article li { font-size: 1.05rem; }

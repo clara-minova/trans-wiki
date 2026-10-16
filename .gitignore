@@ -2,3 +2,6 @@
 .DS_Store
 *.pem
 .obsidian
+
+# local Quartz preview (preview.sh)
+.quartz-build

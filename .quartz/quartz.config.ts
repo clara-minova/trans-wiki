@@ -1,17 +1,18 @@
-import { QuartzConfig } from "./quartz/cfg"
-import * as Plugin from "./quartz/plugins"
+import { QuartzConfig } from "./quartz/cfg";
+import * as Plugin from "./quartz/plugins";
 
 /**
  * Quartz 4 configuration for the Trans Wiki Spain site.
  *
  * This file lives in the wiki repo under .quartz/ and is copied into a fresh
- * Quartz checkout by .github/workflows/deploy.yml at build time.
+ * Quartz checkout by .github/workflows/deploy.yml at build time, together
+ * with quartz.layout.ts and everything under .quartz/quartz/ (styles, static).
  * Docs: https://quartz.jzhao.xyz/configuration
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Trans Guide Spain",
-    pageTitleSuffix: " · Trans Guide Spain",
+    pageTitle: "Wiki Queer Trans España 18+",
+    pageTitleSuffix: " · Wiki Queer Trans España 18+",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
@@ -37,9 +38,10 @@ const config: QuartzConfig = {
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
           dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          // Accent colors taken from the wiki avatar (trans flag + navy)
+          secondary: "#1e5a8a", // links, page title
+          tertiary: "#c4506e", // hover, active items
+          highlight: "rgba(91, 206, 250, 0.14)", // background behind internal links
           textHighlight: "#fff23688",
         },
         darkMode: {
@@ -48,9 +50,9 @@ const config: QuartzConfig = {
           gray: "#646464",
           darkgray: "#d4d4d4",
           dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          secondary: "#7fd3f7",
+          tertiary: "#f5a9b8",
+          highlight: "rgba(91, 206, 250, 0.12)",
           textHighlight: "#b3aa0288",
         },
       },
@@ -95,6 +97,6 @@ const config: QuartzConfig = {
       Plugin.NotFoundPage(),
     ],
   },
-}
+};
 
-export default config
+export default config;
