@@ -5,6 +5,7 @@
 - [[EN/HRT/Trans masc HRT|Trans masc HRT]]
 
 > [!tip] Checking a medication
+> - [Vademecum](https://www.vademecum.es/es): the easiest place to start. Shows which brands and forms are sold in Spain, their price, and alternatives with the same active ingredient. It's not an official source, so double-check important details in the sites below.
 > - [CIMA](https://cima.aemps.es/cima/publico/home.html) (Spanish medicines agency): which medications are on the market in Spain and their current status.
 > - [Ministry of Health: medications search](https://www.sanidad.gob.es/profesionales/medicamentos.do): whether a medication is covered by the SS.
 > - [Nomenclátor](https://www.sanidad.gob.es/profesionales/nomenclator.do?metodo=buscarProductos): for medications that are covered by the SS and price-regulated, the price before coverage.

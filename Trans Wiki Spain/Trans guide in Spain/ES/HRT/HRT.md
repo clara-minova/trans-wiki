@@ -5,6 +5,7 @@
 - [[ES/HRT/Trans masc HRT|THS para personas transmasculinas]]
 
 > [!tip] Cómo consultar un medicamento
+> - [Vademecum](https://www.vademecum.es/es): el punto de partida más sencillo. Muestra qué marcas y formas se venden en España, su precio y alternativas con el mismo principio activo. No es una fuente oficial, así que comprueba los detalles importantes en las webs de abajo.
 > - [CIMA](https://cima.aemps.es/cima/publico/home.html) (Agencia Española de Medicamentos): qué medicamentos están comercializados en España y su situación actual.
 > - [Ministerio de Sanidad: búsqueda de medicamentos](https://www.sanidad.gob.es/profesionales/medicamentos.do): si un medicamento está financiado por la SS.
 > - [Nomenclátor](https://www.sanidad.gob.es/profesionales/nomenclator.do?metodo=buscarProductos): para medicamentos financiados por la SS y con precio regulado, el precio sin financiación.
